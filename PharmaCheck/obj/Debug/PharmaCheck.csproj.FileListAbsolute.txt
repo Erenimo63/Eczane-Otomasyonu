@@ -1,0 +1,85 @@
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\bin\Debug\PharmaCheck.exe.config
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\bin\Debug\PharmaCheck.exe
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\bin\Debug\PharmaCheck.pdb
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.csprojAssemblyReference.cache
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Form1.resources
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Properties.Resources.resources
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.csproj.GenerateResource.cache
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.exe
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.pdb
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.AnaSayfa.resources
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.UrunSatis.resources
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.UrunKayit.resources
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Uruniade.resources
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Kayit.resources
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Satılanurunler.resources
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Urunbilgi.resources
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Stok.resources
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Veresiye.resources
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\bin\Debug\EntityFramework.dll
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\bin\Debug\System.Data.SQLite.dll
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\bin\Debug\EntityFramework.xml
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\bin\Debug\System.Data.SQLite.xml
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.csproj.CopyComplete
+C:\Users\90507\source\repos\PharmaCheck\PharmaCheck\bin\Debug\db\PharmaCheck.db
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\bin\Debug\db\PharmaCheck.db
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\bin\Debug\PharmaCheck.exe.config
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\bin\Debug\PharmaCheck.exe
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\bin\Debug\PharmaCheck.pdb
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\bin\Debug\EntityFramework.dll
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\bin\Debug\System.Data.SQLite.dll
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\bin\Debug\EntityFramework.xml
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\bin\Debug\System.Data.SQLite.xml
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.csprojAssemblyReference.cache
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.AnaSayfa.resources
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Form1.resources
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Kayit.resources
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Properties.Resources.resources
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Satılanurunler.resources
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Stok.resources
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Urunbilgi.resources
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Uruniade.resources
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Urunkayit.resources
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.UrunSatis.resources
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Veresiye.resources
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.csproj.GenerateResource.cache
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.csproj.CopyComplete
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.exe
+C:\Users\90507\source\repos\Okul Online\Sistem Analizi\Buket\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.pdb
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\bin\Debug\db\PharmaCheck.db
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\bin\Debug\PharmaCheck.exe.config
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\bin\Debug\PharmaCheck.exe
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\bin\Debug\PharmaCheck.pdb
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\bin\Debug\EntityFramework.dll
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\bin\Debug\System.Data.SQLite.dll
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\bin\Debug\EntityFramework.xml
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\bin\Debug\System.Data.SQLite.xml
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.csprojAssemblyReference.cache
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.AnaSayfa.resources
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Form1.resources
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Kayit.resources
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Properties.Resources.resources
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Satılanurunler.resources
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Stok.resources
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Urunbilgi.resources
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Uruniade.resources
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Urunkayit.resources
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.UrunSatis.resources
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Veresiye.resources
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.csproj.GenerateResource.cache
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.csproj.CopyComplete
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.exe
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.pdb
+C:\Users\90507\Desktop\Buket Ödev\Sistem Analizi\PharmaCheck\PharmaCheck\obj\Debug\PharmaCheck.Personel.resources
